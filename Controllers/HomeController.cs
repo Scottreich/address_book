@@ -4,6 +4,11 @@ namespace AddressBook.Controllers
 {
     public class HomeController : Controller
     {
-        public string Hello() { return "Hello friend!"; }
+      [Route("/pageOne")]
+       public ActionResult Hello()
+       {
+         return View();
+       }
+
     }
 }
