@@ -1,0 +1,9 @@
+C:\Users\Scott\desktop\address_book\bin\Debug\netcoreapp1.1\address_book.deps.json
+C:\Users\Scott\desktop\address_book\bin\Debug\netcoreapp1.1\address_book.runtimeconfig.json
+C:\Users\Scott\desktop\address_book\bin\Debug\netcoreapp1.1\address_book.runtimeconfig.dev.json
+C:\Users\Scott\desktop\address_book\bin\Debug\netcoreapp1.1\address_book.dll
+C:\Users\Scott\desktop\address_book\bin\Debug\netcoreapp1.1\address_book.pdb
+C:\Users\Scott\desktop\address_book\obj\Debug\netcoreapp1.1\address_book.csproj.CoreCompileInputs.cache
+C:\Users\Scott\desktop\address_book\obj\Debug\netcoreapp1.1\address_book.AssemblyInfo.cs
+C:\Users\Scott\desktop\address_book\obj\Debug\netcoreapp1.1\address_book.dll
+C:\Users\Scott\desktop\address_book\obj\Debug\netcoreapp1.1\address_book.pdb
