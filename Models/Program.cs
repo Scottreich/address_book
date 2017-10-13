@@ -3,27 +3,33 @@ using System.Collections.Generic;
 namespace AddressBook.Models
 {
 
-public class Program
+public class Contact
 {
-    public static void Main()
+    private string _name;
+    private string _phone;
+    private string _address;
+
+
+
+
+    public static void Index()
     {
       Contact hendrix = new Contact();
-      hendrix.Name = "Jimi Hendrix";
-      hendrix.Phone = "503-826-9371";
-      hendrix.Address = "208 SW 5th St. Portland, OR 97204";
+      hendrix._name = "Jimi Hendrix";
+      hendrix._phone = "503-826-9371";
+      hendrix._address = "208 SW 5th St. Portland, OR 97204";
 
       Contact elvis = new Contact();
-      elvis.Name = "Elvis Presley";
-      elvis.Phone = "617-356-3571";
-      elvis.Address = "Graceland, TN";
+      elvis._name = "Elvis Presley";
+      elvis._phone = "617-356-3571";
+      elvis._address = "Graceland, TN";
 
       Contact einstein = new Contact();
-      einstein.Name = "Albert Einstein";
-      einstein.Phone = "415-738-4935";
-      einstein.Address = "3718 MLK Blvd. Oakland, CA 94609";
+      einstein._name = "Albert Einstein";
+      einstein._phone = "415-738-4935";
+      einstein._address = "3718 MLK Blvd. Oakland, CA 94609";
 
       List<Contact> Contacts = new List<Contact>() { hendrix, elvis, einstein };
-
     }
 }
 }
