@@ -5,7 +5,7 @@ namespace AddressBook.Controllers
     public class HomeController : Controller
     {
       [Route("/pageOne")]
-       public ActionResult Hello()
+       public ActionResult PageOne()
        {
          return View();
        }
