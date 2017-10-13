@@ -9,9 +9,6 @@ public class Contact
     private string _phone;
     private string _address;
 
-
-
-
     public static void Index()
     {
       Contact hendrix = new Contact();
