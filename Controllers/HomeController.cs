@@ -11,5 +11,11 @@ namespace AddressBook.Controllers
          return View();
        }
 
+      [Route("/Contact_Details")]
+      public ActionResult ContactDetails()
+      {
+        return View();
+      }
+
     }
 }
